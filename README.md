@@ -1,4 +1,6 @@
 
+![alt text](https://github.com/JadeCreativeL/image-/blob/main/vibes.png?raw=true)
+
 * 👋 Hi, I’m Jade, a dataviz engineer, Tableau Specialist, graduated from Okanagan College with Data Analyst Diploma.
 
 * 👀 I’m interested in data visualization in all its forms, from hand-drawn to created in Tableau to coded with Python or R Studio.
