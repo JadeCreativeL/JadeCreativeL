@@ -1,5 +1,5 @@
 
-* 👋 Hi, I’m Jade, a dataviz engineer, Tableau Ambassador, graduated from Okanagan College with Data Analyst Diploma.
+* 👋 Hi, I’m Jade, a dataviz engineer, Tableau Specialist, graduated from Okanagan College with Data Analyst Diploma.
 
 * 👀 I’m interested in data visualization in all its forms, from hand-drawn to created in Tableau to coded with Python or R Studio.
 
